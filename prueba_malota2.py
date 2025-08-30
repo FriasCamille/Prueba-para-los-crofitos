@@ -1,0 +1,1 @@
+print ("Ohayou Sekai n_n)/")
