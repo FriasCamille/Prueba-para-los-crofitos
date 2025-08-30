@@ -1,7 +1,1 @@
-primer repositorio de git
-primer cambio del primer commit
-<<<<<<< HEAD
-nuevo cambio para github
-=======
-asdlkfj;askjfas kdjf;
->>>>>>> f090f3295f3017c75a1a3ca91345618dcd2fb3b4
+Algo completamente diferente
